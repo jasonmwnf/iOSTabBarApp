@@ -11,5 +11,8 @@
 @interface FirstViewController : UIViewController
 
 
+- (IBAction)jump2:(id)sender;
+- (IBAction)jump3:(id)sender;
+- (IBAction)jump4:(id)sender;
 @end
 

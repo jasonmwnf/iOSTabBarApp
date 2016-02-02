@@ -16,6 +16,7 @@
 		96D5A5E21C606AFD00F7F860 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96D5A5E01C606AFD00F7F860 /* LaunchScreen.storyboard */; };
 		96D5A5ED1C606AFD00F7F860 /* TabBarAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96D5A5EC1C606AFD00F7F860 /* TabBarAppTests.m */; };
 		96D5A5F81C606AFD00F7F860 /* TabBarAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96D5A5F71C606AFD00F7F860 /* TabBarAppUITests.m */; };
+		96D5A6071C607DDA00F7F860 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96D5A6061C607DDA00F7F860 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		96D5A5F31C606AFD00F7F860 /* TabBarAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabBarAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D5A5F71C606AFD00F7F860 /* TabBarAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarAppUITests.m; sourceTree = "<group>"; };
 		96D5A5F91C606AFD00F7F860 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96D5A6051C607DDA00F7F860 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		96D5A6061C607DDA00F7F860 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				96D5A5D61C606AFD00F7F860 /* FirstViewController.m */,
 				96D5A5D81C606AFD00F7F860 /* SecondViewController.h */,
 				96D5A5D91C606AFD00F7F860 /* SecondViewController.m */,
+				96D5A6051C607DDA00F7F860 /* ThirdViewController.h */,
+				96D5A6061C607DDA00F7F860 /* ThirdViewController.m */,
 				96D5A5DB1C606AFD00F7F860 /* Main.storyboard */,
 				96D5A5DE1C606AFD00F7F860 /* Assets.xcassets */,
 				96D5A5E01C606AFD00F7F860 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96D5A5DA1C606AFD00F7F860 /* SecondViewController.m in Sources */,
+				96D5A6071C607DDA00F7F860 /* ThirdViewController.m in Sources */,
 				96D5A5D41C606AFD00F7F860 /* AppDelegate.m in Sources */,
 				96D5A5D71C606AFD00F7F860 /* FirstViewController.m in Sources */,
 				96D5A5D11C606AFD00F7F860 /* main.m in Sources */,

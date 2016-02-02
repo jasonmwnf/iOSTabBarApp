@@ -24,4 +24,15 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)jump2:(id)sender {
+    [(UITabBarController *) self.tabBarController setSelectedIndex:1];
+}
+
+- (IBAction)jump3:(id)sender {
+    [(UITabBarController *) self.tabBarController setSelectedIndex:2];
+}
+
+- (IBAction)jump4:(id)sender {
+    [(UITabBarController *) self.tabBarController setSelectedIndex:3];
+}
 @end
