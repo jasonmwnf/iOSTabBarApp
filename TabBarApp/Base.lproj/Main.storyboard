@@ -115,7 +115,7 @@
             </objects>
             <point key="canvasLocation" x="-351.5" y="-391.5"/>
         </scene>
-        <!--First-->
+        <!--Third-->
         <scene sceneID="pJD-0o-NYH">
             <objects>
                 <viewController id="bkE-DH-Kn3" customClass="ThirdViewController" sceneMemberID="viewController">
@@ -141,7 +141,7 @@
                             <constraint firstAttribute="centerY" secondItem="kte-KY-OpA" secondAttribute="centerY" id="wd5-B6-yDT"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="First" image="first" id="lsA-8p-gcA"/>
+                    <tabBarItem key="tabBarItem" title="Third" image="first" id="lsA-8p-gcA"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8KF-kS-hM5" sceneMemberID="firstResponder"/>
@@ -245,7 +245,7 @@
             </objects>
             <point key="canvasLocation" x="1995.5" y="728.5"/>
         </scene>
-        <!--Second-->
+        <!--Fourth-->
         <scene sceneID="LJL-ri-WEC">
             <objects>
                 <viewController id="IXj-BZ-pte" customClass="SecondViewController" sceneMemberID="viewController">
@@ -271,7 +271,7 @@
                             <constraint firstAttribute="centerX" secondItem="hrm-Ni-ics" secondAttribute="centerX" id="gai-Gp-KsS"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Second" image="second" id="pam-d4-9KR"/>
+                    <tabBarItem key="tabBarItem" title="Fourth" image="second" id="pam-d4-9KR"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IQm-qB-mng" sceneMemberID="firstResponder"/>
@@ -297,11 +297,11 @@
             </objects>
             <point key="canvasLocation" x="157.5" y="-821.5"/>
         </scene>
-        <!--Item-->
+        <!--Fifth-->
         <scene sceneID="zJx-vd-gCF">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="HFm-v2-HCk" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="dW3-HW-zy4"/>
+                    <tabBarItem key="tabBarItem" title="Fifth" image="first" id="dW3-HW-zy4"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ya7-hT-1dB">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
